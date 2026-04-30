@@ -1,2 +1,3 @@
-# goit-js-hw-01
-JavaScript ДЗ-1
+# goit-js-hw-08
+
+JavaScript ДЗ-8
